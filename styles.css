@@ -217,7 +217,7 @@ body{
   }
 
   .activity:hover {
-    background-image: linear-gradient(#4949495e, #49494983), url(/img/skiing.jpg);
+    background-image: linear-gradient(#4949495e, #49494983), url(img/skiing.jpg);
   }
 
   .footer{
